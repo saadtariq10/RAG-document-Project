@@ -1,0 +1,5 @@
+.venv
+.env
+input_sample
+uploaded_pdfs
+out_text.txt
